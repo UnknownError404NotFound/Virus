@@ -1,1 +1,10 @@
 C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.exe.config
+C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.exe
+C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.pdb
+C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Form1.resources
+C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Properties.Resources.resources
+C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.exe
+C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Panel.resources
