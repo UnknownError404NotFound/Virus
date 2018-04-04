@@ -1,6 +1,6 @@
-﻿namespace UniversityManagementSystem
+﻿namespace WindowsFormsApplication1
 {
-    partial class Panel
+    partial class Form1
     {
         /// <summary>
         /// Required designer variable.
@@ -28,19 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.SuspendLayout();
-            // 
-            // Panel
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(708, 495);
-            this.Name = "Panel";
-            this.Text = "Panel";
-            this.ResumeLayout(false);
-
+            this.Text = "Form1";
         }
 
         #endregion
     }
 }
+

@@ -59,6 +59,7 @@
             this.usernameTxt.Name = "usernameTxt";
             this.usernameTxt.Size = new System.Drawing.Size(100, 20);
             this.usernameTxt.TabIndex = 2;
+            this.usernameTxt.Text = "admin123";
             // 
             // PassTxt
             // 
@@ -66,6 +67,7 @@
             this.PassTxt.Name = "PassTxt";
             this.PassTxt.Size = new System.Drawing.Size(100, 20);
             this.PassTxt.TabIndex = 2;
+            this.PassTxt.Text = "admin";
             // 
             // button1
             // 

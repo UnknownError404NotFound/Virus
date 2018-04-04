@@ -26,18 +26,18 @@ namespace UniversityManagementSystem
           var LinQuery = from acc in AccountsLists
                       where acc.Username.Equals(usernameTxt.Text.ToString())
                       && acc.Password.Equals(PassTxt.Text.ToString())
-                      select new {Role=acc.AccountType };
-            MessageBox.Show(""+ LinQuery);
-
+                      select new {Role=acc.AccountType , AccountObj=acc};
+            
             if (LinQuery.Any())
             {
                 var a = LinQuery.First();
-                MessageBox.Show(""+a.Role);
-               
-              /*  foreach (var a in LinQuery)
-                {
-                    MessageBox.Show(a.Role);
-                }*/
+                if (a.Role.Equals("Admin"))
+                    executeAdminPanel(a.AccountObj);
+                else if (a.Role.Equals("Faculty"))
+                    executeFacultyPanel(a.AccountObj);
+                else if (a.Role.Equals("Student"))
+                    executeStudentPanel(a.AccountObj);
+
 
             }
             else
@@ -47,6 +47,21 @@ namespace UniversityManagementSystem
 
            
 
+        }
+
+        private void executeStudentPanel(Account obj)
+        {
+           
+        }
+
+        private void executeAdminPanel(Account obj)
+        {
+            AdminPanel.userAccount = obj;
+            new AdminPanel().Show();
+        }
+
+        private void executeFacultyPanel(Account obj)
+        {
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -60,7 +75,7 @@ namespace UniversityManagementSystem
             DataTable dt = ds.Tables["UserAccount"];
             foreach(DataRow dr in dt.Rows)
             {
-                    AccountsLists.Add(new Account((int)dr[0],dr[1].ToString(),dr[2].ToString(), dr[3].ToString(), dr[4].ToString(), dr[5].ToString(), dr[6].ToString()));
+                    AccountsLists.Add(new Account((int)dr[0],dr[1].ToString(),dr[2].ToString(), dr[3].ToString(), dr[4].ToString(), dr[5].ToString(), dr[6].ToString(), dr[7].ToString()));
             }
             }
             catch(Exception ex)

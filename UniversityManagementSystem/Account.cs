@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace UniversityManagementSystem
 {
-    class Account
+   public class Account
     {
         int accountID;
         String name;
@@ -15,6 +15,10 @@ namespace UniversityManagementSystem
         String username;
         String password;
         String accountType;
+        String FName;
+        private string v1;
+        private string v2;
+        private string v3;
 
         public int AccountID
         {
@@ -107,7 +111,20 @@ namespace UniversityManagementSystem
             }
         }
 
-        public Account(int accountID, string name, string dOB, string addedBy, string username, string password, string accountType)
+        public string FName1
+        {
+            get
+            {
+                return FName;
+            }
+
+            set
+            {
+                FName = value;
+            }
+        }
+
+        public Account(int accountID, string name, string dOB, string addedBy, string username, string password, string accountType,string FName)
         {
             this.AccountID = accountID;
             this.Name = name;
@@ -116,6 +133,14 @@ namespace UniversityManagementSystem
             this.Username = username;
             this.Password = password;
             this.AccountType = accountType;
+            this.FName1 = FName;
+        }
+
+        public Account(int accountID, string name, string dOB, string addedBy, string username, string password, string accountType, string FName, string v1, string v2, string v3) : this(accountID, name, dOB, addedBy, username, password, accountType, FName)
+        {
+            this.v1 = v1;
+            this.v2 = v2;
+            this.v3 = v3;
         }
     }
 }

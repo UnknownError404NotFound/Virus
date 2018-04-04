@@ -7,4 +7,4 @@ C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\obj\Debug\Unive
 C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.GenerateResource.Cache
 C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.exe
 C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
-C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Panel.resources
+C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AdminPanel.resources

@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace UniversityManagementSystem
+namespace WindowsFormsApplication1
 {
-    public partial class Panel : Form
+    public partial class Form1 : Form
     {
-        public Panel()
+        public Form1()
         {
             InitializeComponent();
         }
