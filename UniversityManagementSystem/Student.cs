@@ -12,7 +12,7 @@ namespace UniversityManagementSystem
         private string department;
         private string qualification;
 
-        public Student(int accountID, string name, string dOB, string addedBy, string username, string password, string accountType, string FName,int studentID,string Department,string Qualification) : base(accountID, name, dOB, addedBy, username, password, accountType, FName)
+        public Student(int accountID, string name, string dOB, string addedBy, string username, string password, string accountType, string FName, int studentID, string Department, string Qualification) : base(accountID, name, dOB, addedBy, username, password, accountType, FName)
         {
             this.studentID = studentID;
             this.Department = Department;

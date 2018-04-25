@@ -8,14 +8,14 @@ namespace UniversityManagementSystem
 {
    public class Account
     {
-        int accountID;
-        String name;
-        String dOB;
-        String addedBy;
-        String username;
-        String password;
-        String accountType;
-        String FName;
+      public  int accountID;
+        public String name;
+        public String dOB;
+        public String addedBy;
+        public String username;
+        public String password;
+        public String accountType;
+        public String FName;
         private string v1;
         private string v2;
         private string v3;

@@ -8,3 +8,7 @@ C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\obj\Debug\Unive
 C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.exe
 C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
 C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AdminPanel.resources
+C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\bin\Debug\MetroFramework.dll
+C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Taha\Documents\Project\Virus\UniversityManagementSystem\bin\Debug\Bunifu_UI_v1.5.3.dll

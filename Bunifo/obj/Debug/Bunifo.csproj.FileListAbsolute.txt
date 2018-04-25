@@ -1,0 +1,10 @@
+C:\Users\Taha\Documents\Project\Virus\Bunifo\bin\Debug\Bunifo.exe.config
+C:\Users\Taha\Documents\Project\Virus\Bunifo\bin\Debug\Bunifo.exe
+C:\Users\Taha\Documents\Project\Virus\Bunifo\bin\Debug\Bunifo.pdb
+C:\Users\Taha\Documents\Project\Virus\Bunifo\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Taha\Documents\Project\Virus\Bunifo\obj\Debug\Bunifo.csprojResolveAssemblyReference.cache
+C:\Users\Taha\Documents\Project\Virus\Bunifo\obj\Debug\Bunifo.Form1.resources
+C:\Users\Taha\Documents\Project\Virus\Bunifo\obj\Debug\Bunifo.Properties.Resources.resources
+C:\Users\Taha\Documents\Project\Virus\Bunifo\obj\Debug\Bunifo.csproj.GenerateResource.Cache
+C:\Users\Taha\Documents\Project\Virus\Bunifo\obj\Debug\Bunifo.exe
+C:\Users\Taha\Documents\Project\Virus\Bunifo\obj\Debug\Bunifo.pdb

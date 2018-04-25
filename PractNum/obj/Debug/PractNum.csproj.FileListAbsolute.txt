@@ -1,0 +1,6 @@
+C:\Users\Taha\Documents\Project\Virus\PractNum\bin\Debug\PractNum.exe.config
+C:\Users\Taha\Documents\Project\Virus\PractNum\bin\Debug\PractNum.exe
+C:\Users\Taha\Documents\Project\Virus\PractNum\bin\Debug\PractNum.pdb
+C:\Users\Taha\Documents\Project\Virus\PractNum\obj\Debug\PractNum.csprojResolveAssemblyReference.cache
+C:\Users\Taha\Documents\Project\Virus\PractNum\obj\Debug\PractNum.exe
+C:\Users\Taha\Documents\Project\Virus\PractNum\obj\Debug\PractNum.pdb

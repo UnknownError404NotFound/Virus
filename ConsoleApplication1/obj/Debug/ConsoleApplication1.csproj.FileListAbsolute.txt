@@ -1,0 +1,5 @@
+C:\Users\Taha\Documents\Project\Virus\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Taha\Documents\Project\Virus\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Taha\Documents\Project\Virus\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Taha\Documents\Project\Virus\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Taha\Documents\Project\Virus\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

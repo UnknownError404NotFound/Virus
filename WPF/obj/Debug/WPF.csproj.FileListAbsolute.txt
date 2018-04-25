@@ -1,0 +1,14 @@
+C:\Users\Taha\Documents\Project\Virus\WPF\bin\Debug\WPF.exe.config
+C:\Users\Taha\Documents\Project\Virus\WPF\bin\Debug\WPF.exe
+C:\Users\Taha\Documents\Project\Virus\WPF\bin\Debug\WPF.pdb
+C:\Users\Taha\Documents\Project\Virus\WPF\obj\Debug\WPF.csprojResolveAssemblyReference.cache
+C:\Users\Taha\Documents\Project\Virus\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Taha\Documents\Project\Virus\WPF\obj\Debug\App.g.cs
+C:\Users\Taha\Documents\Project\Virus\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\Taha\Documents\Project\Virus\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\Taha\Documents\Project\Virus\WPF\obj\Debug\MainWindow.baml
+C:\Users\Taha\Documents\Project\Virus\WPF\obj\Debug\WPF.g.resources
+C:\Users\Taha\Documents\Project\Virus\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\Taha\Documents\Project\Virus\WPF\obj\Debug\WPF.csproj.GenerateResource.Cache
+C:\Users\Taha\Documents\Project\Virus\WPF\obj\Debug\WPF.exe
+C:\Users\Taha\Documents\Project\Virus\WPF\obj\Debug\WPF.pdb

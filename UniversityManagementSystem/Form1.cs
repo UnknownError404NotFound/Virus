@@ -18,33 +18,12 @@ namespace UniversityManagementSystem
         public Form1()
         {
             InitializeComponent();
-        }
         
+        }
 
         private void button1_Click(object sender, EventArgs e)
         {
-          var LinQuery = from acc in AccountsLists
-                      where acc.Username.Equals(usernameTxt.Text.ToString())
-                      && acc.Password.Equals(PassTxt.Text.ToString())
-                      select new {Role=acc.AccountType , AccountObj=acc};
-            
-            if (LinQuery.Any())
-            {
-                var a = LinQuery.First();
-                if (a.Role.Equals("Admin"))
-                    executeAdminPanel(a.AccountObj);
-                else if (a.Role.Equals("Faculty"))
-                    executeFacultyPanel(a.AccountObj);
-                else if (a.Role.Equals("Student"))
-                    executeStudentPanel(a.AccountObj);
-
-
-            }
-            else
-            {
-                MessageBox.Show("Incorrect Username / Password. Please Try Again","Login Error");
-            }
-
+ 
            
 
         }
@@ -84,5 +63,36 @@ namespace UniversityManagementSystem
                 Application.Exit();
             }
             }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            var LinQuery = from acc in AccountsLists
+                           where acc.Username.Equals(usernameTxt.Text.ToString())
+                           && acc.Password.Equals(PassTxt.Text.ToString())
+                           select new { Role = acc.AccountType, AccountObj = acc };
+
+            if (LinQuery.Any())
+            {
+                var a = LinQuery.First();
+                if (a.Role.Equals("Admin"))
+                    executeAdminPanel(a.AccountObj);
+                else if (a.Role.Equals("Faculty"))
+                    executeFacultyPanel(a.AccountObj);
+                else if (a.Role.Equals("Student"))
+                    executeStudentPanel(a.AccountObj);
+
+
+            }
+            else
+            {
+                MessageBox.Show("Incorrect Username / Password. Please Try Again", "Login Error");
+            }
+
+        }
+
+        private void bunifuFlatButton1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

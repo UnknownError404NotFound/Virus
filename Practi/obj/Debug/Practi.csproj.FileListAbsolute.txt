@@ -1,0 +1,6 @@
+C:\Users\Taha\Documents\Project\Virus\Practi\bin\Debug\Practi.exe.config
+C:\Users\Taha\Documents\Project\Virus\Practi\bin\Debug\Practi.exe
+C:\Users\Taha\Documents\Project\Virus\Practi\bin\Debug\Practi.pdb
+C:\Users\Taha\Documents\Project\Virus\Practi\obj\Debug\Practi.csprojResolveAssemblyReference.cache
+C:\Users\Taha\Documents\Project\Virus\Practi\obj\Debug\Practi.exe
+C:\Users\Taha\Documents\Project\Virus\Practi\obj\Debug\Practi.pdb
